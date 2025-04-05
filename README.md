@@ -16,7 +16,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  grc_tab_bar: ^1.0.0
+  grc_tab_bar: ^0.0.1
 ```
 
 ## Usage
